@@ -1,0 +1,9 @@
+D:\nam4\framework(C#)\SMS\BUS_SMS\bin\Debug\BUS_SMS.dll
+D:\nam4\framework(C#)\SMS\BUS_SMS\bin\Debug\BUS_SMS.pdb
+D:\nam4\framework(C#)\SMS\BUS_SMS\bin\Debug\DAL_SMS.dll
+D:\nam4\framework(C#)\SMS\BUS_SMS\bin\Debug\DAL_SMS.pdb
+D:\nam4\framework(C#)\SMS\BUS_SMS\obj\Debug\BUS_SMS.csproj.AssemblyReference.cache
+D:\nam4\framework(C#)\SMS\BUS_SMS\obj\Debug\BUS_SMS.csproj.CoreCompileInputs.cache
+D:\nam4\framework(C#)\SMS\BUS_SMS\obj\Debug\BUS_SMS.csproj.CopyComplete
+D:\nam4\framework(C#)\SMS\BUS_SMS\obj\Debug\BUS_SMS.dll
+D:\nam4\framework(C#)\SMS\BUS_SMS\obj\Debug\BUS_SMS.pdb

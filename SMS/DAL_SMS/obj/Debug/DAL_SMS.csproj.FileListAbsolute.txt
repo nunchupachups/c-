@@ -1,0 +1,6 @@
+D:\nam4\framework(C#)\SMS\DAL_SMS\bin\Debug\DAL_SMS.dll
+D:\nam4\framework(C#)\SMS\DAL_SMS\bin\Debug\DAL_SMS.pdb
+D:\nam4\framework(C#)\SMS\DAL_SMS\obj\Debug\DAL_SMS.csproj.AssemblyReference.cache
+D:\nam4\framework(C#)\SMS\DAL_SMS\obj\Debug\DAL_SMS.csproj.CoreCompileInputs.cache
+D:\nam4\framework(C#)\SMS\DAL_SMS\obj\Debug\DAL_SMS.dll
+D:\nam4\framework(C#)\SMS\DAL_SMS\obj\Debug\DAL_SMS.pdb
